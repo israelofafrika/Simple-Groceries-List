@@ -1,3 +1,3 @@
 # grocery-list-project
-Small grocery list project
+A Simple grocery list project
 
